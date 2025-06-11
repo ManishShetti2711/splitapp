@@ -1,0 +1,18 @@
+{
+  "name": "split-app",
+  "version": "1.0.0",
+  "description": "Split App backend for expense and settlement tracking",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1"
+  }
+}
